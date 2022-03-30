@@ -1,0 +1,3 @@
+local m pull k liye git pull origin main 
+remember github m bhi main and git bash m bhi main 
+LA LA LA Laaaaa............
